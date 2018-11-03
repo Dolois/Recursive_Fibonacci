@@ -10,17 +10,17 @@
 #### (15) &nbsp;&nbsp;377  = 233 + 144
 #### (14) &nbsp;&nbsp;233  = 144 + 89
 #### (13) &nbsp;&nbsp;144  = 89 + 55
-#### (12) &nbsp;&nbsp;&nbsp;89   = 55 + 34
-#### (11)  55   = 34 + 21
-#### (10)  34   = 21 + 13
-#### (9)   21   = 13 + 8
-#### (8)   13   = 8 + 5
-#### (7)    8   = 5 + 3
-#### (6)    5   = 3 + 2
-#### (5)    3   = 2 + 1
-#### (4)    2   = 1 + 1
-#### (3)    1   = 1 + 0
-#### (2)    1   = 0 + 1
-#### (1)    0   = 0 + 0
+#### (12) &nbsp;&nbsp;&nbsp;&nbsp;89   = 55 + 34
+#### (11) &nbsp;&nbsp;&nbsp;&nbsp;55   = 34 + 21
+#### (10) &nbsp;&nbsp;&nbsp;&nbsp;34   = 21 + 13
+#### (9)  &nbsp;&nbsp;&nbsp;&nbsp;21   = 13 + 8
+#### (8)  &nbsp;&nbsp;&nbsp;&nbsp;13   = 8 + 5
+#### (7)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8   = 5 + 3
+#### (6)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5   = 3 + 2
+#### (5)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3   = 2 + 1
+#### (4)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2   = 1 + 1
+#### (3)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1   = 1 + 0
+#### (2)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1   = 0 + 1
+#### (1)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0   = 0 + 0
 
 0  1  1  2  3  5  8  13  21  34  55  89  144  233  377  610  987

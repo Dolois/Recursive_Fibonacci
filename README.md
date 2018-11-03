@@ -1,4 +1,4 @@
-### Exercice de la récursivité sur une suite de Fibonacci
+### Exercice sur la récursivité avec une suite de Fibonacci
 
 #### La liste de Fibonacci est une suite d'entier
 #### dans laquelle chaque entier cumulé est la somme des deux entiers précédents

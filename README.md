@@ -21,6 +21,6 @@
 #### (4)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2   = 1 + 1
 #### (3)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1   = 1 + 0
 #### (2)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1   = 0 + 1
-#### (1)  &nbsp;&nbsp;&nbp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0   = 0 + 0
+#### (1)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0   = 0 + 0
 
 0  1  1  2  3  5  8  13  21  34  55  89  144  233  377  610  987

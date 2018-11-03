@@ -3,13 +3,13 @@
 #### La liste de Fibonacci est une suite d'entier
 #### dans laquelle chaque entier cumulé est la somme des deux entiers précédents
 
-17 x F3  = (F(pos-1) + F(pos-2))
+#### 17 x F3  = (F(pos-1) + F(pos-2))
 
 #### (1)  987 = 610 + 377
 #### (2)  610 = 377 + 233
-(3)  377 = 233 + 144
-(4)  233 = 144 + 89
-(5)  144 = 89 + 55
+#### (3)  377 = 233 + 144
+#### (4)  233 = 144 + 89
+#### (5)  144 = 89 + 55
 (6)  89  = 55 + 34
 (7)  55  = 34 + 21
 (8)  34  = 21 + 13

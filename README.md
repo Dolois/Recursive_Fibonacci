@@ -10,8 +10,8 @@
 #### (15) &nbsp;&nbsp;377  = 233 + 144
 #### (14) &nbsp;&nbsp;233  = 144 + 89
 #### (13) &nbsp;&nbsp;144  = 89 + 55
-#### (12) &nbsp;&nbsp;&nbsp;&nbsp;89   = 55 + 34
-#### (11) &nbsp;&nbsp;&nbsp;&nbsp;55   = 34 + 21
+#### (12) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;89   = 55 + 34
+#### (11) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;55   = 34 + 21
 #### (10) &nbsp;&nbsp;&nbsp;&nbsp;34   = 21 + 13
 #### (9)  &nbsp;&nbsp;&nbsp;&nbsp;21   = 13 + 8
 #### (8)  &nbsp;&nbsp;&nbsp;&nbsp;13   = 8 + 5

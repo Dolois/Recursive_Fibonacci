@@ -12,7 +12,7 @@ package exo_recursive;
   *		 x		= entier de la suite de Fibonacci
   *  	|--|	= entiers précédents 
   */
-public class Fibonnacci 
+public class Fibonacci 
 {
     static int	n1 = 0,
     			n2 = 1,

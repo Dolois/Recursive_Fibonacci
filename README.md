@@ -14,13 +14,13 @@
 #### (11) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;55   = 34 + 21
 #### (10) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;34   = 21 + 13
 #### (9)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21   = 13 + 8
-#### (8)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13   = 8 + 5
-#### (7)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8   = 5 + 3
-#### (6)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5   = 3 + 2
-#### (5)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3   = 2 + 1
-#### (4)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2   = 1 + 1
-#### (3)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1   = 1 + 0
-#### (2)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1   = 0 + 1
-#### (1)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0   = 0 + 0
+#### (8)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13   = 8 + 5
+#### (7)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8   = 5 + 3
+#### (6)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5   = 3 + 2
+#### (5)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3   = 2 + 1
+#### (4)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2   = 1 + 1
+#### (3)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1   = 1 + 0
+#### (2)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1   = 0 + 1
+#### (1)  &nbp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0   = 0 + 0
 
 0  1  1  2  3  5  8  13  21  34  55  89  144  233  377  610  987
